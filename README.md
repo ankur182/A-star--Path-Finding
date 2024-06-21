@@ -44,7 +44,8 @@ The ability to reset the program provides users with an easy way to restart or m
 
 IMAGE-1: Defining Starting point with orange color and Ending point blue color
 
-![Screenshot 2024-06-21 232547](https://github.com/ankur182/A-star--Path-Finding/assets/98750453/e01acaba-a82b-4949-8ca2-b1b69947aace)
+![Screenshot 2024-06-21 233416](https://github.com/ankur182/A-star--Path-Finding/assets/98750453/e7bdfe1b-4603-4312-916a-e5d06bfbd698)
+
 IMAGE2: The visualizer will display the shorted path from purple color 
 
 ![Screenshot 2024-06-21 232736](https://github.com/ankur182/A-star--Path-Finding/assets/98750453/01b43c50-f821-40fe-b238-10e2dd885a93)
