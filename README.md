@@ -2,14 +2,34 @@
 We will be building a path finding visualizer tool to visualize the a star pathfinding algorithm as it runs. This astar pathfinding algorithm is an informed search algorithm which means it is much more efficient that your standard algorithms like breadth first search or depth first search.
 
 Highlights
-Implementation of a class to visualize grid and obstacles 🟦
-Setting up nodes with different colors for start, end, barriers, and paths 🎨
-Handling mouse clicks to set start, end, and barriers ⌨️
-Starting pathfinding algorithm with space key press ⏯️
-Algorithm finds shortest path by considering all possible nodes 🛤️
-Reconstructing path by tracing back from end to start node 🔍
-Ability to reset program by pressing ‘c’ to clear screen ♻️
+Implementation of a Class to Visualize Grid and Obstacles 🟦
+
+Created a Spot class to represent each grid cell with methods for setting states like start, end, barrier, and path.
+Setting Up Nodes with Different Colors 🎨
+
+Utilized a color scheme to differentiate between start nodes, end nodes, barriers, and paths for better visualization.
+Handling Mouse Clicks to Set Start, End, and Barriers ⌨️
+
+Enabled interactive setting of start, end, and barrier nodes through mouse clicks.
+Starting Pathfinding Algorithm with Space Key Press ⏯️
+
+Initiated the A* pathfinding algorithm with the press of the space key.
+Algorithm Finds Shortest Path by Considering All Possible Nodes 🛤️
+
+Implemented an A* algorithm that efficiently explores all potential nodes to determine the shortest path.
+Reconstructing Path by Tracing Back from End to Start Node 🔍
+
+Added functionality to trace back and visually highlight the shortest path from end to start node once found.
+Ability to Reset Program by Pressing 'C' to Clear Screen ♻️
+
+Provided a convenient way to reset the grid and start over by pressing the 'C' key.
 Key Insights
-The visualization tool allows for a clear representation of the grid and obstacles, making it easier to understand the pathfinding process 🧩
-The algorithm efficiently finds the shortest path by exploring all possible nodes and updating the shortest distance accordingly 🚀
-The ability to reset the program provides users with a convenient way to start over or make changes to the grid 🔄
+Clear Representation of the Grid and Obstacles 🧩
+
+The visualization tool offers a clear and intuitive representation of the grid and obstacles, making the pathfinding process easier to understand.
+Efficient Shortest Pathfinding 🚀
+
+The A* algorithm effectively finds the shortest path by exploring and updating all potential nodes' distances.
+Convenient Reset Functionality 🔄
+
+The ability to reset the program provides users with an easy way to restart or modify the grid setup as needed.
