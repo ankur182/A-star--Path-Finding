@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=JtiK0DOeI4A&list=PLzMcBGfZo4-kNEPqSOaglnUZz3D2R4OzY&index=3&ab_channel=TechWithTim
+
 import pygame
 import math
 from queue import PriorityQueue
